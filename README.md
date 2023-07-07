@@ -16,7 +16,7 @@ The QR Code Generator is a web application created with HTML, CSS, and JavaScrip
 2. Enter the desired text or paste a link into the input field.
 3. Click the "Generate QR Code" button.
 4. The application will instantly generate a scannable QR code based on the provided information.
-5. Users can save or download the QR code for future use.
+5. Users can save or download the QR code for future use. [ToDo]
 
 # Contributing:
 Contributions to the QR Code Generator project are welcome. If you would like to contribute, please follow the guidelines outlined in the project's GitHub repository.
