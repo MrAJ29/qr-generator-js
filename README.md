@@ -1,5 +1,5 @@
 # qr-generator-js
-Visit Site Here👉 
+Visit Site Here👉 https://mraj29.github.io/qr-generator-js/
 
 # Description:
 The QR Code Generator is a web application created with HTML, CSS, and JavaScript. It offers a convenient way for users to generate QR codes from provided text or links. By utilizing the GoQR API, the application allows users to easily convert any information into a scannable QR code.
@@ -22,4 +22,4 @@ The QR Code Generator is a web application created with HTML, CSS, and JavaScrip
 Contributions to the QR Code Generator project are welcome. If you would like to contribute, please follow the guidelines outlined in the project's GitHub repository.
 
 # Get Started:
-To start using the QR Code Generator, visit the live demo [insert URL] or clone the repository and run it locally.
+To start using the QR Code Generator, visit the live demo (https://mraj29.github.io/qr-generator-js/) or clone the repository and run it locally.
